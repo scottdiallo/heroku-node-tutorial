@@ -1,0 +1,15 @@
+{
+  "name": "heroku-node-tutorial",
+  "version": "1.0.0",
+  "description": "Simple node app for Heroku deployment demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rajzshkr/heroku-node-tutorial.git"
+  },
+  "author": "Raja Sekar <rajasekar89be@gmail.com> (http://rajasekarm.com)",
+  "license": "ISC"
+}
